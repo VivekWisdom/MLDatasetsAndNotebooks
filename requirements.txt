@@ -1,0 +1,29 @@
+# Deep Learning Frameworks
+tensorflow
+keras
+
+# Machine Learning Frameworks
+scikit-learn
+
+# Useful Python Libraries
+numpy
+pandas
+scipy
+matplotlib
+pillow
+jupyter
+pyyaml
+easydict
+python-dateutil
+
+# Python Natural Language Toolkit
+nltk
+
+# Python Gaming Applications
+pygame
+
+# OpenCV Binaries
+opencv-python
+
+# For Simple Web Apps on Python
+flask
