@@ -4,14 +4,14 @@ This repository will be hosting my notebooks for popular datsets practice.
 
 One dataset can have multiple notebooks so hierarchy will based on dataset name.
 
-# Tech Stack
+## Tech Stack
 
 - Python 3.6 
 - Python libraries like `numpy, pandas, matplotlib`
 - ML library `scikit-learn`
 - And other supporting libraries mentioned in requirements.txt like `jupyter`
 
-# System Setup
+## System Setup
 
 ### Setup a Virtual env
 Install Virtual Environment
