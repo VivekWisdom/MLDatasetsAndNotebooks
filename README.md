@@ -27,7 +27,7 @@ Activate Virtual Environment
 
 Install all dependencies using pip and requirements file after activating virtual environment.
 
-`pip install -r requirement.txt`
+`pip install -r requirements.txt`
 
 ### Start Project
 
