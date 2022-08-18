@@ -1,6 +1,10 @@
 # Deep Learning Frameworks
 tensorflow
 keras
+torch 
+torchvision 
+torchaudio
+
 
 # Machine Learning Frameworks
 scikit-learn
